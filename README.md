@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @desogab
-- 👀 I’m interested in frontend developer, functional programming, video games, dogs and pizza.
-- 🌱 I’m currently learning ReactJS, JavaScript and Next.JS
-- 💞️ I’m looking to collaborate on @Memester-INC, the largest meme indexer in Brazil , a project with more two friends.
+- 👀 I’m interested in frontend developer, mmo rpg, dogs and pizza.
+- 🌱 I’m currently learning HTML, JavaScript and CSS
+- 💞️ I’m looking to collaborate on @Memester-INC, a project with more two friends.
 - 📫 How to reach me ... on Instagram:@desogab, LinkedIn: linkedin.com/in/desouza-gabriel/
 
 <!---
