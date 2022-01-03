@@ -28,5 +28,4 @@
 
 ## 📊 GitHub Analytics
 ![Desogab's GitHub stats](https://github-readme-stats.vercel.app/api?username=desogab&count_private=true&show_icons=true&theme=dark&icon_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desogab&layout=compact&card_width=445&bg_color=151515&text_color=fff&title_color=fff)](https://github.com/desogab/github-readme-stats)
-[![Desogab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=desogab&bg_color=151515&text_color=fff&title_color=fff)](https://github.com/desogab/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desogab&layout=compact&card_width=445&bg_color=151515&text_color=fff&title_color=fff)
