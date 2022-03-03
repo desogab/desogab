@@ -1,9 +1,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quemgabriel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desouza-gabriel/)
-- 🔥 Junior Web Developer & passionate about solving problems
-- 🔭 I’m currently find for a job
-- 👰🏻 Married with a beatiful woman
-- 🐶 Father of two
+- 🔥 Desenvolvedor Web Júnior e apaixonado por resolver problemas / Junior Web Developer & passionate about solving problems
+- 🪛 Gosto de concertar coisas nas horas vagas / I like to fix things in my spare time.
+- 🔭 Atualmente estou buscando uma vaga no mercado de trabalho / I’m currently find for a job
+- 👰🏻 Casado com uma linda mulher / Married with a beatiful woman
+
 <br></br>
 
 ## 🔨 Tech Stack
@@ -11,9 +12,9 @@
 💻 OS
 
 ![WINDOWS11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![UBUNDU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![UBUNDU](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-🚀 Skills
+🚀 Skills - Learning
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,5 +28,4 @@
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## 📊 GitHub Analytics
-![Desogab's GitHub stats](https://github-readme-stats.vercel.app/api?username=desogab&count_private=true&show_icons=true&theme=dark&icon_color=fff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desogab&layout=compact&card_width=445&bg_color=151515&text_color=fff&title_color=fff)
