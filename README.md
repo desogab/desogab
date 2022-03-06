@@ -3,7 +3,7 @@
 - 🔥 Desenvolvedor Web Júnior e apaixonado por resolver problemas / Junior Web Developer & passionate about solving problems
 - 🪛 Gosto de concertar coisas nas horas vagas / I like to fix things in my spare time.
 - 🔭 Atualmente estou buscando uma vaga no mercado de trabalho / I’m currently find for a job
-- 👰🏻 Casado com uma linda mulher / Married with a beatiful woman
+- 👰🏻 Casado com uma mulher incrível / Married to an amazing woman
 
 <br></br>
 
