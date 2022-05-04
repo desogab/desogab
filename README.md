@@ -1,9 +1,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/quemgabriel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desouza-gabriel/)
 - 🔥 Desenvolvedor Web Júnior e apaixonado por resolver problemas / Junior Web Developer & passionate about solving problems
-- 🪛 Gosto de concertar coisas nas horas vagas / I like to fix things in my spare time.
-- 🔭 Atualmente estou buscando uma vaga no mercado de trabalho / I’m currently find for a job
-- 👰🏻 Casado com uma mulher incrível / Married to an amazing woman
+- 🔭 Atualmente estou em busca de uma oportunidade no mercado de trabalho / I’m currently find for a job
 
 <br></br>
 
