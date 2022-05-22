@@ -2,14 +2,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desouza-gabriel/)
 
 # Sobre mim / About me:
-- 🔥 Desenvolvedor Web Júnior e apaixonado por resolver problemas / Junior Web Developer & passionate about solving problems
+- 🔥 Desenvolvedor Web Júnior e apaixonado por resolver problemas
 
-- 🔭 Atualmente estou em busca de uma oportunidade no mercado de trabalho / I’m currently find for a job
+- 🔭 Atualmente estou em busca de uma oportunidade no mercado de trabalho
 
-- 👷‍♂️ Faço alguns freelancers com amigos desenvolvedores mais experiêntes que me permitem trabalhar em algumas funcionalidades dos seus projetos pessoais para que eu possa adquirir experiência em algo real. / I do a few freelancers with more experienced developer friends who allow me to work on some features of their personal projects so that I can gain experience on something real.
+- 👷‍♂️ Faço alguns freelancers com amigos desenvolvedores mais experiêntes.
 
-- 👰 Em paralelo a minha carreira como desenvolvedor eu ajudo a minha esposa que é psicóloga na criação de conteúdos para internet falando sobre saúde mental [Terapia em Minutos](https://www.youtube.com/channel/UC13uUwio5bLAUXg7nWZFwNQ), onde sou responsável pela edição de vídeos para o youtube e edição de audios para podcast [Terapia em Minutos](https://open.spotify.com/show/6ZBsdvmtiRPD4hK1jxRduQ?si=a3fa34cff55b49c4). / 
-In parallel with my career as a developer, I help my wife, who is a psychologist, in creating content for the internet talking about mental health [Terapia em Minutos](https://www.youtube.com/channel/UC13uUwio5bLAUXg7nWZFwNQ), where I am responsible for editing videos for youtube and editing audios for podcast [Terapia em Minutos](https://open.spotify.com/show/6ZBsdvmtiRPD4hK1jxRduQ?si=a3fa34cff55b49c4).
+- 👰 Em paralelo a minha carreira como desenvolvedor eu ajudo a minha esposa que é psicóloga na criação de conteúdos para internet falando sobre saúde mental [Terapia em Minutos](https://www.youtube.com/channel/UC13uUwio5bLAUXg7nWZFwNQ), onde sou responsável pela edição de vídeos para o youtube e edição de audios para podcast [Terapia em Minutos](https://open.spotify.com/show/6ZBsdvmtiRPD4hK1jxRduQ?si=a3fa34cff55b49c4).
 
 <br></br>
 
