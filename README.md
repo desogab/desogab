@@ -36,6 +36,3 @@
 
 ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-## 📊 GitHub Analytics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desogab&layout=compact&card_width=445&bg_color=151515&text_color=fff&title_color=fff)
