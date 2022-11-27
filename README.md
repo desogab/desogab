@@ -4,8 +4,6 @@
 # Sobre mim:
 - 🔥 Desenvolvedor Web Júnior e apaixonado por resolver problemas.
 
-- 🔭 Em busca de bons problemas para criar soluções que façam sentido para alguém.
-
 - 👷‍♂️ Construindo soluções para área da justiça com a [Softplan](https://www.softplan.com.br/).
 
 - 👰 Em paralelo a minha carreira como desenvolvedor eu ajudo a minha esposa que é psicóloga na criação de conteúdos para internet falando sobre saúde mental [Terapia em Minutos](https://www.youtube.com/channel/UC13uUwio5bLAUXg7nWZFwNQ), onde sou responsável pela edição de vídeos para o youtube e edição de audios para podcast [Terapia em Minutos](https://open.spotify.com/show/6ZBsdvmtiRPD4hK1jxRduQ?si=a3fa34cff55b49c4).
