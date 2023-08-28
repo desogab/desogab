@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/desouza-gabriel/)
 
 # Sobre mim:
-- 🔥 Desenvolvedor Web Júnior e apaixonado por resolver problemas.
+- 🔥 Desenvolvedor Web.
 
 - 👷‍♂️ Construindo soluções para área da justiça com a [Softplan](https://www.softplan.com.br/).
 
@@ -24,13 +24,3 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <br></br>
-
-## 💻 OS
-
-![WINDOWS11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![UBUNDU](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-## 💻 Workspace Spec
-
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_3600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
